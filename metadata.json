@@ -1,0 +1,5 @@
+{
+  "name": "Gmail Filter",
+  "description": "Automate Email Filtering & AI Summarization. This app uses AI to automatically categorize and summarize your emails, helping you manage your inbox more efficiently.",
+  "requestFramePermissions": []
+}
